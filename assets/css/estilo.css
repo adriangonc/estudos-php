@@ -71,7 +71,8 @@ body {
 
 .modulo {
     flex-basis: 32%;
-
+    margin-bottom: 20px;
+    border-radius: 5px;
 }
 
 .modulo > h3{
@@ -90,7 +91,44 @@ body {
 }
 
 .modulo > ul > li {
-    padding: 10px;
+    padding: 7px;
     font-size: 1.3 rem;
     cursor: pointer;
 }
+
+.modulo > ul > li > a {
+    display: flex;
+    text-decoration: none;
+    color: #222;
+}
+
+.modulo > ul > li:hover {
+    background-color: #EEE;
+}
+
+.modulo.verde { border: 2px solid #009E73; }
+.modulo.verde > h3 { background-color: #009E73; }
+
+.modulo.azul { border: 2px solid #0072B2; }
+.modulo.azul > h3 { background-color: #0072B2; }
+
+.modulo.laranja { border: 2px solid #D55E00; }
+.modulo.laranja > h3 { background-color: #D55E00; }
+
+.modulo.amarelo { border: 2px solid #F0E442; }
+.modulo.amarelo > h3 { background-color: #F0E442; }
+
+.modulo.azulclaro { border: 2px solid #88CCEE; }
+.modulo.azulclaro > h3 { background-color: #88CCEE; }
+
+.modulo.azulclaro2 { border: 2px solid #7DE5ED; }
+.modulo.azulclaro2 > h3 { background-color: #7DE5ED; }
+
+.modulo.azulclaro3 { border: 2px solid #81C6E8; }
+.modulo.azulclaro3 > h3 { background-color: #81C6E8; }
+
+.modulo.azulclaro4 { border: 2px solid #5DA7DB; }
+.modulo.azulclaro4 > h3 { background-color: #5DA7DB; }
+
+.modulo.azulescuro { border: 2px solid #5837D0; }
+.modulo.azulescuro > h3 { background-color: #5837D0; }
