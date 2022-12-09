@@ -73,6 +73,11 @@
                             Tipo String
                         </a>
                     </li>
+                    <li>
+                        <a href="exercicio.php?dir=tipos&file=booleano">
+                            Tipo Boleano
+                        </a>
+                    </li>
                 </ul>
             </div>
             
