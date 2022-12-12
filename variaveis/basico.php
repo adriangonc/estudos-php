@@ -11,3 +11,8 @@ echo "<br>";
 $numberA = 'Teste';
 
 var_dump($numberA); //Tipagem fraca
+
+#Nomes de variáveis
+
+echo "<br>";
+echo $_SERVER['HTTP_HOST'];

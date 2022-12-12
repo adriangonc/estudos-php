@@ -89,6 +89,12 @@
                             Variáveis
                         </a>
                     </li>
+
+                    <li>
+                        <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
+                            Des. Equação
+                        </a>
+                    </li>
                     
                 </ul>
             </div>
