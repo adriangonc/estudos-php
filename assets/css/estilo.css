@@ -132,3 +132,9 @@ body {
 
 .modulo.azulescuro { border: 2px solid #5837D0; }
 .modulo.azulescuro > h3 { background-color: #5837D0; }
+
+.modulo.cinza { border: 2px solid #919191; }
+.modulo.cinza > h3 { background-color: #919191; }
+
+.modulo.vermelho { border: 2px solid red; }
+.modulo.vermelho > h3 { background-color: red; }
