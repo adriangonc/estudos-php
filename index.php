@@ -107,8 +107,16 @@
                             Basico
                         </a>
                     </li>
-
-            
+                    <li>
+                        <a href="exercicio.php?dir=array&file=get">
+                            GET
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicio.php?dir=array&file=post">
+                            POST
+                        </a>
+                    </li>
                     
                 </ul>
             </div>

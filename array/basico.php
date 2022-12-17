@@ -48,3 +48,17 @@ $dados[] =
     ];
 
 print_r($dados);
+
+unset($dados[2]);
+echo '<br>';
+print_r($dados);
+
+unset($dados[0]); //Remover um index não reordena o array
+echo '<br>';
+print_r($dados);
+
+
+//Arrays constantes
+const FRUITS = ["Banana", "Orange"];
+
+echo FRUITS[0];
