@@ -23,7 +23,11 @@
                             Função e Escopo
                         </a>
                     </li>
-                    
+                    <li>
+                        <a href="exercicio.php?dir=funcoes&file=anonimas">
+                            Funções Anonimas
+                        </a>
+                    </li>
                     
                 </ul>
             </div>
