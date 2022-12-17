@@ -14,6 +14,33 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+
+            <div class="modulo cinza">
+                <h3>Funções</h3>
+                <ul>
+                    <li>
+                        <a href="exercicio.php?dir=funcoes&file=escopo">
+                            Função e Escopo
+                        </a>
+                    </li>
+                    
+                    
+                </ul>
+            </div>
+
+            <div class="modulo vermelho">
+                <h3>Repetições</h3>
+                <ul>
+                    <li>
+                        <a href="exercicio.php?dir=repeticoes&file=for">
+                            For
+                        </a>
+                    </li>
+                    
+                    
+                </ul>
+            </div>
+
             <div class="modulo verde">
                 <h3>Básico</h3>
                 <ul>
@@ -121,19 +148,7 @@
                 </ul>
             </div>
 
-            <div class="modulo vermelho">
-                <h3>Repetições</h3>
-                <ul>
-                    <li>
-                        <a href="exercicio.php?dir=repeticoes&file=for">
-                            For
-                        </a>
-                    </li>
-                    
-                    
-                </ul>
-            </div>
-            
+                        
             </nav>
         </div>
     </main>
